@@ -4,6 +4,7 @@
     package="com.onlyonepass.mylibrary">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
+        android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         >
         <activity
